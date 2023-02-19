@@ -1,7 +1,7 @@
 # flutter-rounded-app-bar
 flutter rounded app bar with floating 
 
-##code for making the app bar in main.dart
+## code for making the app bar in main.dart
 ```
   import 'package:flutter/material.dart';
 
